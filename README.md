@@ -18,8 +18,9 @@
 * **Capabilities:** Track joints, calculate knee angles, and count repetitions automatically.
 
 ### 3. Contest Model Training
-ส่วนของการพัฒนาโมเดลสำหรับการแข่งขัน (Contest) ซึ่งรวมไปถึงการจัดการ Dataset และการ Train โมเดลที่มีความแม่นยำสูง
-
+ส่วนของการพัฒนาโมเดลสำหรับการเลือกรายรูปอาหารที่คาดว่ามนุษย์จะชอบ ซึ่งรวมไปถึงการจัดการ Dataset และการ Train โมเดลที่มีความแม่นยำสูง
+* **Tech Stack:** PyTorch, MobileNetV2, Siamese Network, Pandas, Pillow
+* **Capabilities:** Automates pairwise image comparison to determine visual preferences between food photos.
 ---
 
 ## 📁 Project Structure
