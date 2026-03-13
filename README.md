@@ -1,11 +1,11 @@
 
-#Computer Vision Portfolio: Contest & Exercise Tech
+# Computer Vision Portfolio: Contest & Exercise Tech
 
 ยินดีต้อนรับสู่โปรเจกต์ **Computer Vision** ที่รวบรวมโซลูชันด้านการตรวจจับและวิเคราะห์ภาพ (Image & Video Analytics) โดยเน้นไปที่การใช้งานจริงในด้านการตรวจนับวัตถุและวิทยาศาสตร์การกีฬา
 
 ---
 
-##Key Features
+## Key Features
 
 ### 1. Coin Counting System
 ระบบตรวจนับเหรียญอัตโนมัติจากภาพถ่าย โดยใช้เทคนิคการประมวลผลภาพเพื่อแยกแยะชนิดของเหรียญและคำนวณยอดเงินรวม
